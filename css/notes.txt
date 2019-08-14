@@ -1,0 +1,16 @@
+    .top-img{
+        display: none;
+    }
+
+    .cover-text{
+        display:flex;
+        width: 100%;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+
+    }
+
+    .cover-button{
+        margin: 0 auto;
+        }
